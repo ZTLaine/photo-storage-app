@@ -4,7 +4,7 @@
 A web application that allows users to upload, store, and view photos, demonstrating practical AWS service integration while providing hands-on JavaScript/React experience.
 
 ## Tech Stack
-- Frontend: React (starting with JavaScript, later adding TypeScript versions for learning)
+- Frontend: React (starting with JavaScript, later adding TypeScript versions for practice)
 - AWS Services:
   - S3 for photo storage
   - Lambda for image processing
